@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Franco, I'm from Argentina and I'm a IT-Nerd-SysAdmin-Guy.
+My name is Franco, I'm from Argentina and I'm a IT-Nerd-Guy.
 
 * Currently working on DevOps Engineer.
 * Consulting in the implementation of secure and optimal IT services in growing startups.
