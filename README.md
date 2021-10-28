@@ -2,7 +2,7 @@
 
 My name is Franco, I'm from Argentina and I'm a IT-Nerd-SysAdmin-Guy.
 
-* Currently working on SysAdmin for the government.
+* Currently working on DevOps Engineer.
 * Consulting in the implementation of secure and optimal IT services in growing startups.
 * I offer consulting hours, you can MD me.
 
